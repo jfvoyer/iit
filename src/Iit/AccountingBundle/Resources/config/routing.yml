@@ -1,0 +1,3 @@
+iit_accounting_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: IitAccountingBundle:Default:index }
